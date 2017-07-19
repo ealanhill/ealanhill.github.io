@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Alan Hill - Articles</title>
+    <description>I love Android and the work I do. I work closely with my clients to deliver the best possible solution for their needs.</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Are Instant Apps The Future</title>
+        
+          <description>&lt;p&gt;As everyone should know in the Android developer community, Google released the Instant App SDK for companies to start adding them to their apps. For those who are not in the loop, Instant Apps are small versions of your app users download from a link on the internet. They last just as long as they need to on the users phone. But, I’m not going to rehash Instant Apps here, there are plenty of other articles out there &lt;a href=&quot;https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps&quot;&gt;explaining what they are&lt;/a&gt;. Instead, I’m asking the question: Are Instant Apps the future of mobile apps?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 06 Jul 2017 16:50:00 -0400</pubDate>
+        <link>
+        /are-instant-apps-the-future</link>
+        <guid isPermaLink="true">/are-instant-apps-the-future</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
