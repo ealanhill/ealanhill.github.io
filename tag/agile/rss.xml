@@ -86,38 +86,6 @@
 	  ]]></description>
 	</item>
 
-	<item>
-	  <title>Are Instant Apps The Future</title>
-	  <link>//are-instant-apps-the-future</link>
-	  <author>E Alan Hill</author>
-	  <pubDate>2017-07-06T16:50:00-04:00</pubDate>
-	  <guid>//are-instant-apps-the-future</guid>
-	  <description><![CDATA[
-	     <p>As everyone should know in the Android developer community, Google released the Instant App SDK for companies to start adding them to their apps. For those who are not in the loop, Instant Apps are small versions of your app users download from a link on the internet. They last just as long as they need to on the users phone. But, I’m not going to rehash Instant Apps here, there are plenty of other articles out there <a href="https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps">explaining what they are</a>. Instead, I’m asking the question: Are Instant Apps the future of mobile apps?</p>
-
-<h5>Why are Instant Apps important?</h5>
-
-<p>Think for a moment, how do you find a company that meets your needs? How do you find that great bakery near your house? How do you find the movie times in your area? How do you find the best price for that table you are looking to buy? I’m willing to be it’s all done through a Google search.</p>
-
-<p>More so today than before, people are finding things through the internet and every smartphone has a connection to the internet. This is where Google was very smart in how you download an Instant App. They decided to serve them to users via a link from an internet search. This allows people to discover your company’s app much faster than before. You don’t have to go to the Play Store to download the app, it’s just there…instantly.</p>
-
-<h5>They don't take up storage</h5>
-
-<p>One of the greatest things about Instant Apps is that they do not take up space on your phone. This means your users will have more storage on their device for their photos. Now, you will need to persist data through either the cloud, but don’t worry Google is currently working on a way to save data to the phone in a sort of cookie.</p>
-
-<h5>Fully Android compatible</h5>
-
-<p>With Instant Apps, you get full access to all the Android features. When your user clicks on a button to view a map, Google Maps will open up within the Instant App. Your users won’t need to switch to a new app, they stay within the Instant App, giving them a clean user experience.</p>
-
-<h5>The Future</h5>
-
-<p>So taking this three things into account: 1) easy access to your company’s app, 2) minimal storage foot print, and 3) full access to Android Features, it is quite possible we will see more Instant Apps in the future. With them, it is so easy to direct users to your app via a simple Google search, driving conversions. Also, no need for users to swap between apps to access or download the apps. Finally, no need to take up space on the users phone. So, again, I believe we will see a rise in Instant Apps in the coming years.</p>
-
-<p>For more information on Instant Apps, check out: https://developer.android.com/topic/instant-apps/index.html</p>
-
-	  ]]></description>
-	</item>
-
 
 </channel>
 </rss>
