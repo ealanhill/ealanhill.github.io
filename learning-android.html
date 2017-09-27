@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Gettysburg Address</title>
+    <title>Learning Android</title>
     <meta name="description" content="E Alan Hill - I love Android and the work I do. I work closely with my clients to deliver the best possible solution for their needs." />
 
     <meta name="HandheldFriendly" content="True" />
@@ -60,7 +60,7 @@
 
 
 </head>
-<body class="post-template nav-closed">
+<body class="home-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -70,7 +70,7 @@
     <ul>
         <li class="nav-home " role="presentation"><a href="/">Home</a></li>
         <li class="nav-about " role="presentation"><a href="/about">About</a></li>
-        <li class="nav-fables " role="presentation"><a href="/tag/android">Android</a></li>
+        <li class="nav-fables  nav-current" role="presentation"><a href="/tag/android">Android</a></li>
         <li class="nav-speeches " role="presentation"><a href="/tag/apps">Apps</a></li>
         <li class="nav-speeches " role="presentation"><a href="/tag/agile">Agile</a></li>
         <li class="nav-author " role="presentation"><a href="/author/alan">Author</a></li>
@@ -91,28 +91,34 @@
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<header class="main-header post-head no-cover">
-    <nav class="main-nav  clearfix">
+<header class="main-header post-head " style="background-image: url(/assets/images/cover9.jpg) ">
+    <nav class="main-nav  overlay  clearfix">
+        <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
         
+            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         
     </nav>
 </header>
 
 <main class="content" role="main">
 
-    <article class="post tag-fiction">
+    <article class="post tag-test tag-content">
 
         <header class="post-header">
-            <h1 class="post-title">Gettysburg Address</h1>
+            <h1 class="post-title">Learning Android</h1>
             <section class="post-meta">
             <!-- <a href='/'>E Alan Hill</a> -->
-            <time class="post-date" datetime="1863-11-19">19 Nov 1863</time>
+            <time class="post-date" datetime="2017-09-27">27 Sep 2017</time>
                 <!-- [[tags prefix=" on "]] -->
                 
                 on
                 
                     
-                       <a href='/tag/fiction'>Fiction</a>,
+                       <a href='/tag/android'>Android</a>,
+                    
+                
+                    
+                       <a href='/tag/learning'>Learning</a>
                     
                 
                 
@@ -121,15 +127,47 @@
 
         <section class="post-content">
 
-            <p>Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.</p>
+            <p>This past weekend I went to an event hosted by a local App Development Agency. It was a great time and, while there, I ran into a college student who brought his college’s computer club. He asked me if I had any thoughts on how to teach his fellow students programming. It was a great question to ask an experienced engineer, and I figured I would share some of the advice I gave him here, but specifically about Android.</p>
 
-<p>Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.</p>
+<h5>Books</h5>
 
-<p>But, in a larger sense, we can not dedicate-we can not consecrate-we can not hallow-this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion-that we here highly resolve that these dead shall not have died in vain-that this nation, under God, shall have a new birth of freedom-and that government of the people, by the people, for the people shall not perish from the earth.</p>
+<p>One of the most obvious ways to learn anything: pick up a book. Initially, this is how I started to learn Android development. I grabbed a book, started to read through it and work the examples.</p>
 
-<p>By <strong>Abraham Lincoln</strong></p>
+<p>The great thing about learning through books is you can learn at your own pace. You can take your time reading or you can speed read. You also get to keep the book forever as a reference, that’s what I did with my book. There are also a great variety of books written, so you can find one that suits your learning style.</p>
 
-<p>The 16th president of the USA until he was assassinated in April of 1963. He led the US through its Civil War - its bloodiest and greatest moral, constitutional and political crisis.</p>
+<p>The downside about books is how fast they fall behind the pace of technology. I have a book sitting on my bookcase about Javascript and JQuery, but the current push in the web development world seems to be Redux (you hardly hear about JQuery jobs lately). This time lag is obviously due to how long it takes to write and publish a book. So, if you are going to choose a book, make sure it was published recently (not a year ago).</p>
+
+<h5>Bootcamps</h5>
+
+<p>If you are looking the learn Android quickly, then perhaps a Bootcamp is for you. Bootcamps are courses put together by experts in the field and usually last about the week. They aim to teach you the bare minimum to get you started as an Android Developer and you are expected to have some minimum knowledge of Java before starting.</p>
+
+<p>The difficulty with Bootcamps is that they usually don’t go in depth with the inner workings of Android. They will point you in the right direction, but won’t tell you about things like the Dex limit or Multidexing (things very important to an Android Developer).</p>
+
+<p>When looking for a Bootcamp, check to ensure they teach you through projects and that there is a large project you add to throughout your time there. This helps you showcase what you can do to future employers and aids in learning Android.</p>
+
+<h5>Project</h5>
+
+<p>Do you have an app you wish someone would make? Well, make it yourself! The best way to learn anything is to just do it. Yes, you will make a lot of mistakes and it may be frustrating at times, but there’s plenty of resources out there to help you. People have written numerous blogposts about the different techniques you can use to implement your app.</p>
+
+<p>True, your app may not be the best, but it is definitely going teach you a lot. You can also use the project to showcase your abilities, helping you land a job with other Android Developers.</p>
+
+<h5>Go Learn</h5>
+
+<p>Hopefully, these tips help to give you an idea on where you can start learning Android. So, go learn! Being willing to make mistakes and learn from them. Feel free to reach out for help.</p>
+
+<p><br />
+<br /></p>
+<h5>Additional Resources</h5>
+
+<ul>
+  <li><a href="http://fragmentedpodcast.com/">Fragmented Podcast</a></li>
+  <li><a href="http://androidweekly.net/">Android Weekly</a></li>
+  <li><a href="https://www.androiddevdigest.com/">#AndroidDev Digest</a></li>
+  <li><a href="https://www.udemy.com/courses/search/?q=android&amp;src=ukw">Udemy</a></li>
+  <li><a href="https://www.udacity.com/degrees/nd803/summary">Udacity</a></li>
+  <li><a href="https://www.bignerdranch.com/">Big Nerd Ranch</a></li>
+  <li><a href="http://a.co/g9FoW7x">Android Programming: The Big Nerd Ranch Guide</a></li>
+</ul>
 
 
         </section>
@@ -161,15 +199,15 @@
 
             <section class="share">
                 <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text=Gettysburg Address&amp;url=old_posts1863-11-19-gettysburg-address"
+                <a class="icon-twitter" href="http://twitter.com/share?text=Learning Android&amp;url=learning-android"
                     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
                     <span class="hidden">Twitter</span>
                 </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=old_posts1863-11-19-gettysburg-address"
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=learning-android"
                     onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
                     <span class="hidden">Facebook</span>
                 </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url=old_posts1863-11-19-gettysburg-address"
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=learning-android"
                    onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
                     <span class="hidden">Google+</span>
                 </a>
@@ -190,6 +228,13 @@
     
     <!-- [[! /next_post ]] -->
     <!-- [[! prev_post ]] -->
+    
+        <a class="read-next-story prev " style="background-image: url(/assets/images/cover8.jpg)" href="/is-a-scrum-master-necessary">
+            <section class="post">
+                <h2>Is A ScrumMaster Necessary</h2>
+                <p>I have worked within the Agile framework since my first internship. I really like it’s...</p>
+            </section>
+        </a>
     
     <!-- [[! /prev_post ]] -->
 </aside>

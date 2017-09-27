@@ -12,10 +12,62 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Learning Android</title>
+	  <link>//learning-android</link>
+	  <author>E Alan Hill</author>
+	  <pubDate>2017-09-27T03:50:00-05:00</pubDate>
+	  <guid>//learning-android</guid>
+	  <description><![CDATA[
+	     <p>This past weekend I went to an event hosted by a local App Development Agency. It was a great time and, while there, I ran into a college student who brought his college’s computer club. He asked me if I had any thoughts on how to teach his fellow students programming. It was a great question to ask an experienced engineer, and I figured I would share some of the advice I gave him here, but specifically about Android.</p>
+
+<h5>Books</h5>
+
+<p>One of the most obvious ways to learn anything: pick up a book. Initially, this is how I started to learn Android development. I grabbed a book, started to read through it and work the examples.</p>
+
+<p>The great thing about learning through books is you can learn at your own pace. You can take your time reading or you can speed read. You also get to keep the book forever as a reference, that’s what I did with my book. There are also a great variety of books written, so you can find one that suits your learning style.</p>
+
+<p>The downside about books is how fast they fall behind the pace of technology. I have a book sitting on my bookcase about Javascript and JQuery, but the current push in the web development world seems to be Redux (you hardly hear about JQuery jobs lately). This time lag is obviously due to how long it takes to write and publish a book. So, if you are going to choose a book, make sure it was published recently (not a year ago).</p>
+
+<h5>Bootcamps</h5>
+
+<p>If you are looking the learn Android quickly, then perhaps a Bootcamp is for you. Bootcamps are courses put together by experts in the field and usually last about the week. They aim to teach you the bare minimum to get you started as an Android Developer and you are expected to have some minimum knowledge of Java before starting.</p>
+
+<p>The difficulty with Bootcamps is that they usually don’t go in depth with the inner workings of Android. They will point you in the right direction, but won’t tell you about things like the Dex limit or Multidexing (things very important to an Android Developer).</p>
+
+<p>When looking for a Bootcamp, check to ensure they teach you through projects and that there is a large project you add to throughout your time there. This helps you showcase what you can do to future employers and aids in learning Android.</p>
+
+<h5>Project</h5>
+
+<p>Do you have an app you wish someone would make? Well, make it yourself! The best way to learn anything is to just do it. Yes, you will make a lot of mistakes and it may be frustrating at times, but there’s plenty of resources out there to help you. People have written numerous blogposts about the different techniques you can use to implement your app.</p>
+
+<p>True, your app may not be the best, but it is definitely going teach you a lot. You can also use the project to showcase your abilities, helping you land a job with other Android Developers.</p>
+
+<h5>Go Learn</h5>
+
+<p>Hopefully, these tips help to give you an idea on where you can start learning Android. So, go learn! Being willing to make mistakes and learn from them. Feel free to reach out for help.</p>
+
+<p><br />
+<br /></p>
+<h5>Additional Resources</h5>
+
+<ul>
+  <li><a href="http://fragmentedpodcast.com/">Fragmented Podcast</a></li>
+  <li><a href="http://androidweekly.net/">Android Weekly</a></li>
+  <li><a href="https://www.androiddevdigest.com/">#AndroidDev Digest</a></li>
+  <li><a href="https://www.udemy.com/courses/search/?q=android&amp;src=ukw">Udemy</a></li>
+  <li><a href="https://www.udacity.com/degrees/nd803/summary">Udacity</a></li>
+  <li><a href="https://www.bignerdranch.com/">Big Nerd Ranch</a></li>
+  <li><a href="http://a.co/g9FoW7x">Android Programming: The Big Nerd Ranch Guide</a></li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Is A ScrumMaster Necessary</title>
 	  <link>//is-a-scrum-master-necessary</link>
 	  <author>E Alan Hill</author>
-	  <pubDate>2017-07-31T16:55:00-04:00</pubDate>
+	  <pubDate>2017-07-31T15:55:00-05:00</pubDate>
 	  <guid>//is-a-scrum-master-necessary</guid>
 	  <description><![CDATA[
 	     <p>I have worked within the Agile framework since my first internship. I really like it’s fluidity, ability to adapt to changing requirements, and flexible structure. Recently, I started working with a client who has strictly implemented the Agile method, including a position I had not encountered previously. I had heard about it, but no company I have worked with has actually given someone this position as their sole role.</p>
@@ -90,7 +142,7 @@
 	  <title>Are Instant Apps The Future</title>
 	  <link>//are-instant-apps-the-future</link>
 	  <author>E Alan Hill</author>
-	  <pubDate>2017-07-06T16:50:00-04:00</pubDate>
+	  <pubDate>2017-07-06T15:50:00-05:00</pubDate>
 	  <guid>//are-instant-apps-the-future</guid>
 	  <description><![CDATA[
 	     <p>As everyone should know in the Android developer community, Google released the Instant App SDK for companies to start adding them to their apps. For those who are not in the loop, Instant Apps are small versions of your app users download from a link on the internet. They last just as long as they need to on the users phone. But, I’m not going to rehash Instant Apps here, there are plenty of other articles out there <a href="https://willowtreeapps.com/ideas/an-introduction-to-android-instant-apps">explaining what they are</a>. Instead, I’m asking the question: Are Instant Apps the future of mobile apps?</p>

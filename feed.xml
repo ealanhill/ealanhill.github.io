@@ -8,13 +8,28 @@
     
       
       <item>
+        <title>Learning Android</title>
+        
+          <description>&lt;p&gt;This past weekend I went to an event hosted by a local App Development Agency. It was a great time and, while there, I ran into a college student who brought his college’s computer club. He asked me if I had any thoughts on how to teach his fellow students programming. It was a great question to ask an experienced engineer, and I figured I would share some of the advice I gave him here, but specifically about Android.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 27 Sep 2017 03:50:00 -0500</pubDate>
+        <link>
+        /learning-android</link>
+        <guid isPermaLink="true">/learning-android</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Is A ScrumMaster Necessary</title>
         
           <description>&lt;p&gt;I have worked within the Agile framework since my first internship. I really like it’s fluidity, ability to adapt to changing requirements, and flexible structure. Recently, I started working with a client who has strictly implemented the Agile method, including a position I had not encountered previously. I had heard about it, but no company I have worked with has actually given someone this position as their sole role.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Mon, 31 Jul 2017 16:55:00 -0400</pubDate>
+        <pubDate>Mon, 31 Jul 2017 15:55:00 -0500</pubDate>
         <link>
         /is-a-scrum-master-necessary</link>
         <guid isPermaLink="true">/is-a-scrum-master-necessary</guid>
@@ -29,7 +44,7 @@
 
 </description>
         
-        <pubDate>Thu, 06 Jul 2017 16:50:00 -0400</pubDate>
+        <pubDate>Thu, 06 Jul 2017 15:50:00 -0500</pubDate>
         <link>
         /are-instant-apps-the-future</link>
         <guid isPermaLink="true">/are-instant-apps-the-future</guid>
